@@ -16,5 +16,5 @@ menu.addEventListener("click", ()=>{
 
 close.addEventListener("click",()=>{
     sidebar.classList.remove("show-sidebar");
-    
+
 })
